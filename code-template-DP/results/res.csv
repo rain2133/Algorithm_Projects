@@ -1,0 +1,4 @@
+Evaluation,Unbounded_1,Unbounded_2,Bounded,Bounded_log2
+average_time(s),0.101978,0.0037308,0.102364,0.012034
+average_calc,40578747,497259,40079747,3400330
+average_search,20329581,499000,20329581,2074052
