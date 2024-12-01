@@ -1,0 +1,4 @@
+tar -czvf code-sorting.tar.gz code-sorting
+tar -xzvf code-sorting.tar.gz
+tar -czvf code-DP.tar.gz code-DP
+tar -xzvf code-DP.tar.gz
