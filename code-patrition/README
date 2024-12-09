@@ -1,0 +1,8 @@
+运行下列指令
+```
+g++ horse_jurney.cpp -o hourse_jurney
+./hourse_jurney 
+```
+根据提示输入棋盘大小和起点坐标即可运行求解
+
+仅仅实现了|m-n|<=2的情况，其他情况还未实现
